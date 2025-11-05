@@ -8,7 +8,7 @@ export default function Card({ item }) {
         <div className="card">
             <div className="card-image">
                 { /* 카드 이미지 */}
-                <img src="https://placehold.co/600x400" alt={item.title} />
+                <img src="https://placehold.co/600x400" />
             </div>
             <div className="card-content">
                 { /* 카테고리 */}
